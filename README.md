@@ -2,7 +2,7 @@
 
 Fractals are theoretically infinite or self-replicating structures. There are several types of fractals, in this repository we will deal with the factual tree, one of the simplest types of fractals.
 
-<img src= "https://github.com/EuReinoso/Fractal-Tree/blob/master/assets/tree1.gif" width="380" height= "260" />
+<img src= "https://github.com/EuReinoso/Fractal-Tree/blob/master/assets/tree1.gif" width="420" height= "300" />
 
 ## Explanation :page_with_curl:
 
@@ -26,7 +26,7 @@ Whe can have different visual results if we change variables:
 
 ## Why? :dart:
 
-Construir esse tipo de algoritmo estimula o aprendizado de forma divertida :smiley:
+Building this type of algorithm encourages learning in a fun way.  :smiley:
 
 ## Guide :memo:
 
